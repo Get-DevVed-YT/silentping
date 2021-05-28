@@ -1,0 +1,11 @@
+body {
+  font-family: "Roboto Mono", Monospace;
+}
+
+#messages {
+  border: 2px solid black;
+}
+
+.disc {
+  font-size: 40%;
+}
