@@ -1,6 +1,6 @@
 var msgs = [{
   "name": "Server",
-  "text": "WT-SilentPing Vercel Archive Backup Server booted."
+  "text": "WT-SilentPing Archive Backup Server booted."
 },
 {
   "name": "Server",
