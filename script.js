@@ -317,7 +317,6 @@ async function loop() {
  msg.innerHTML = obj.name + " : " + obj.text;
  x.append(msg);
  x.append(br);
-  await timer(3000);
 }
 }
 
